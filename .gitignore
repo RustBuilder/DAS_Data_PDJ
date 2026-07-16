@@ -1,0 +1,17 @@
+.env
+.venv/
+results/
+results_*/
+
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+*.h5
+CH0_*.csv
+capture_*/
+
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini

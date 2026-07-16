@@ -1,0 +1,11 @@
+numpy==2.5.1
+scipy==1.18.0
+pandas==3.0.3
+matplotlib==3.11.0
+h5py==3.16.0
+pyarrow==25.0.0
+python-dotenv==1.2.2
+PyYAML==6.0.3
+tqdm==4.68.4
+daspy-toolbox==1.2.6
+pytest==9.1.1
